@@ -1,0 +1,22 @@
+{
+  "name": "bili-creator-watch",
+  "version": "1.0.0",
+  "description": "Bilibili creator/space videos scraper & batch analysis skill for AI agents",
+  "main": "lib/bili-space.mjs",
+  "type": "module",
+  "bin": {
+    "bili-creator": "./bin/bili-creator.mjs",
+    "bili-batch-analyze": "./bin/bili-batch-analyze.mjs"
+  },
+  "keywords": [
+    "bilibili",
+    "scraper",
+    "ai-agent",
+    "skill",
+    "mcp",
+    "video-analysis",
+    "creator"
+  ],
+  "author": "zgw2",
+  "license": "MIT"
+}
